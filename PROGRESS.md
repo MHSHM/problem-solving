@@ -2,7 +2,8 @@
 
 ## Rules (Claude coordinates)
 - Each topic: Easy → Medium → Hard.
-- Level up after 2 problems in a row solved with no hints.
+- Level up when every core pattern of the topic has a solve at the current level, and the last problem had no hints.
+- If the first problem at the new level goes badly (many hints), drop back one level for one problem.
 - Needed hints or many tries → another problem at the same level, same pattern.
 - A topic is done when every core pattern below has a no-hint solve, including 2 Mediums.
 - Hard is optional per topic. Do 1 if Mediums went smoothly.
