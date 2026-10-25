@@ -34,7 +34,7 @@ A space for the user to rebuild problem-solving skill. The user writes all code.
 - State explicitly whether input is sorted, can be empty, etc.
 
 ## Replies (important)
-The user has trouble focusing. Keep every reply very easy to read:
+The user prefers short, easy-to-scan replies:
 - 3 to 5 short lines max.
 - One idea at a time. Plain words.
 - No headers, tables, or long bullet lists in replies.
